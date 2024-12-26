@@ -128,4 +128,4 @@ Real-Time Notifications: Alerts for status updates or payment changes.
 # Conclusion
 The SASSA Status website is an indispensable tool for South Africans relying on social grants. By providing a centralized platform for application tracking, payment updates, and essential information, it empowers users to stay informed and access their benefits efficiently.
 
-Whether you’re checking your application status, planning a visit to a SASSA office, or troubleshooting a payment delay, the website offers the tools and resources to make the process as smooth as possible.
+Whether you’re checking your application status, planning a visit to a SASSA office, or troubleshooting a payment delay, the website offers the tools and resources to make the process as smooth as possible.check out the websit here :https://sasastatus.co.za/
